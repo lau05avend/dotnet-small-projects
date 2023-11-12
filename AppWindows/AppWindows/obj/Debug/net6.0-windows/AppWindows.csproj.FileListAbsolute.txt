@@ -1,0 +1,17 @@
+C:\Users\laura\source\repos\AppWindows\AppWindows\bin\Debug\net6.0-windows\AppWindows.exe
+C:\Users\laura\source\repos\AppWindows\AppWindows\bin\Debug\net6.0-windows\AppWindows.deps.json
+C:\Users\laura\source\repos\AppWindows\AppWindows\bin\Debug\net6.0-windows\AppWindows.runtimeconfig.json
+C:\Users\laura\source\repos\AppWindows\AppWindows\bin\Debug\net6.0-windows\AppWindows.dll
+C:\Users\laura\source\repos\AppWindows\AppWindows\bin\Debug\net6.0-windows\AppWindows.pdb
+C:\Users\laura\source\repos\AppWindows\AppWindows\obj\Debug\net6.0-windows\AppWindows.Form1.resources
+C:\Users\laura\source\repos\AppWindows\AppWindows\obj\Debug\net6.0-windows\AppWindows.csproj.GenerateResource.cache
+C:\Users\laura\source\repos\AppWindows\AppWindows\obj\Debug\net6.0-windows\AppWindows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laura\source\repos\AppWindows\AppWindows\obj\Debug\net6.0-windows\AppWindows.AssemblyInfoInputs.cache
+C:\Users\laura\source\repos\AppWindows\AppWindows\obj\Debug\net6.0-windows\AppWindows.AssemblyInfo.cs
+C:\Users\laura\source\repos\AppWindows\AppWindows\obj\Debug\net6.0-windows\AppWindows.csproj.CoreCompileInputs.cache
+C:\Users\laura\source\repos\AppWindows\AppWindows\obj\Debug\net6.0-windows\AppWindows.dll
+C:\Users\laura\source\repos\AppWindows\AppWindows\obj\Debug\net6.0-windows\refint\AppWindows.dll
+C:\Users\laura\source\repos\AppWindows\AppWindows\obj\Debug\net6.0-windows\AppWindows.pdb
+C:\Users\laura\source\repos\AppWindows\AppWindows\obj\Debug\net6.0-windows\AppWindows.genruntimeconfig.cache
+C:\Users\laura\source\repos\AppWindows\AppWindows\obj\Debug\net6.0-windows\ref\AppWindows.dll
+C:\Users\laura\source\repos\AppWindows\AppWindows\obj\Debug\net6.0-windows\AppWindows.Properties.Resources.resources
